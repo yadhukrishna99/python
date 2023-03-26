@@ -1,0 +1,6 @@
+Jim  ----  Employee
+Karen  ----  Assistant
+James  ---- Manager
+Shubham ---- CEO
+Kelly --- Customer Service
+Jimmy --- HR
